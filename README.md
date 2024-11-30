@@ -1,5 +1,4 @@
-# latas001.github.io
-<!DOCTYPE html>
+# Latas Amassadas
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
