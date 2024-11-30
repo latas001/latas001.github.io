@@ -28,6 +28,6 @@
     </style>
 </head>
 <body>
-    <button onclick="window.location.href='https://www.exemplo.com';">Clique aqui</button>
+    <button onclick="window.location.href='https://www.twitch.tv/pinscherinliveaction;">Clique aqui</button>
 </body>
 </html>
